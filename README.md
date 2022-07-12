@@ -1,3 +1,3 @@
 # Leetcode
 
-Getting in touch with SQL and Python on everyday basis!
+Getting in touch with SQL on everyday basis!
