@@ -4,10 +4,7 @@ class Solution:
         #     if target==nums[i]:
         #         return i
         # return i
-        try:
-            for i,num in enumerate(nums):
-                if target==num or target<num:
-                    return i
-            return i+1
-        except:
-            return 0
+        for i,num in enumerate(nums):
+            if target==num or target<num:
+                return i
+        return i+1
